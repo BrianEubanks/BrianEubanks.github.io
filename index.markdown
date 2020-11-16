@@ -5,3 +5,8 @@
 # layout: home
 ---
 
+# ![My helpful screenshot](/images/headshot.jpg)
+
+I am a recent Computer Science graduate, interested in designing and building computer systems.
+
+I also enjoy playing chess, hiking, and music.
