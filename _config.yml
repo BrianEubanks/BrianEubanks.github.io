@@ -19,9 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Brian Eubanks
-email: brianeubanks97@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  I am a recent Computer Science graduate, interested in designing and building computer systems.
+email: brianeubanks97@gmail.com 
+#description: >- # this means to ignore newlines until "baseurl:"
+description: | # this means to NOT ignore newlines until "baseurl:"
+  Embedded Systems Researcher
+
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: b

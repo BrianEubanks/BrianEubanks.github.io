@@ -5,8 +5,13 @@
 # layout: home
 ---
 
-# ![My helpful screenshot](/images/headshot.jpg)
 
-I am a recent Computer Science graduate, interested in designing and building computer systems.
+![My helpful screenshot](/images/headshot.jpg)
 
-I also enjoy playing chess, hiking, and music.
+
+
+I am recent graduate of The University of Central Arkansas with degrees in Computer Sciece and Trumpet Performance.
+
+This is my personal/professional website which I will dedicate to some of my personal projects, research, and maybe some blogging.
+
+
