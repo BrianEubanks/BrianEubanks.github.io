@@ -5,7 +5,7 @@ permalink: /trumpet/
 ---
 
 
-At UCA I performed with the Arkansas Intercollegiate Band, Conway Symphony Orchestra, UCA Wind Ensemble, and UCA Jazz Ensembles. The Wind Ensemble was featured in Carnegie Hall in 2018.
+At UCA I performed with the Arkansas Intercollegiate Band, Conway Symphony Orchestra, UCA Wind Ensemble, and UCA Jazz Ensembles. I also frequently performed with the Pinnacle Brass Quintet. The Wind Ensemble was featured in Carnegie Hall in 2018.
 
 I also enjoy numerous freelance performances, including weddings, church services, and various community events in the Central Arkansas Area.
 
