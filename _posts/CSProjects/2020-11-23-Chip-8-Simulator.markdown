@@ -5,26 +5,34 @@ date:   2020-11-22 11:44:40 -0600
 categories: projects
 project: CS
 ---
-CHIP8find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+{:refdef: style="text-align: center;"}
+#### CHIP 8 Simulator - IBMLOGO
+{: refdef}
+{:refdef: style="text-align: center;"}
+![bship1](/images/chip8/chip8IBM.png)
+{: refdef}
 
-`YEAR-MONTH-DAY-title.MARKUP`
+I'm currently in the process of building a [CHIP8 simulator] in Python and Java. Currently the Python version only shows the display output, whereas the Java version also shows the memory and register contents. The IBMLogo rom loads by default if no file is specified at runtime.  *So far only the Instructions needed for the IBMLogo are implemented so other roms may not run too well!*
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+[Chip8] is a simple virtual machine with a simple architecture, making it an easy starting point for writing simulators and emulators. There are many resources and references online, so for now I won't go into great details on the instruction set.
 
-Jekyll also offers powerful support for code snippets:
+#### Future Work
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Implement the remaining instructions and test with some other roms.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Finish Java simulator. Add Save/Load states. Live memory editing. Rom Editing.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Move on to implement other architectures and older video games systems.
+
+Write an Arduino Simulator. I found some generic AVR simulators in addition to the built in debugger with Atmel studio, however I think a more robust simulator could be useful. Particularly having the ability to simulate external interrupts and some basic hardware peripherals.
+
+
+
+
+
+
+
+[Chip8]: https://en.wikipedia.org/wiki/CHIP-8
+[CHIP8 simulator]: https://github.com/BrianEubanks/chip8
+

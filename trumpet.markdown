@@ -5,8 +5,12 @@ permalink: /trumpet/
 ---
 
 
-I obtained undergraduate degrees in Music Performance and Computer Science. 
+At UCA I performed with the Arkansas Intercollegiate Band, Conway Symphony Orchestra, UCA Wind Ensemble, and UCA Jazz Ensembles. The Wind Ensemble was featured in Carnegie Hall in 2018.
 
-He has performed as principal trumpet with the Arkansas Intercollegiate Band, the UCA Wind Ensemble, and the Conway Symphony Orchestra. In addition to freelance performances in the Central Arkansas area, he performed in Carnegie Hall with the UCA Wind Ensemble, South on Main in Little Rock with the UCA Jazz Ensembles, and local shows with the UCA Small Jazz Combo.
+I also enjoy numerous freelance performances, including weddings, church services, and various community events in the Central Arkansas Area.
 
-Brian’s students have been successful in All Region, All Region Orchestra, and All Region Jazz auditions. He has taught students ranging from beginners to high school level, as well as coached group brass sectionals.
+My students have been successful at All Region in band, orchestra and jazz, and I have worked  brass sectionals from beginner, Junior High, High School, to collegiate.
+
+
+Feel free to email me for lessons or if you need live music for an event!
+*lessons are temporarily virtual*
