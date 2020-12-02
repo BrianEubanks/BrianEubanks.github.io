@@ -10,7 +10,7 @@
 
 
 
-I am recent graduate of The University of Central Arkansas with degrees in Computer Sciece and Trumpet Performance.
+I am recent graduate of The University of Central Arkansas with degrees in Computer Science and Trumpet Performance.
 
 This is my personal/professional website which I will dedicate to some of my personal projects, research, and maybe some blogging.
 
