@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "PiHole"
+date:   2020-12-14 16:00:00 -0600
+categories: projects
+project: CS
+---
+I had an extra Pi laying around and decided to try out a PiHole adblocker. It acts as a DNS server for the router and PiHole filters out ads that are served via DNS.
+
+{:refdef: style="text-align: center;"}
+
+{: refdef}
+{:refdef: style="text-align: center;"}
+![bship1](/images/pihole.jpg)
+{: refdef}
+
+{:refdef: style="text-align: center;"}
+The "Brian" button toggles the mini display on and off.  I also hacked together two small push buttons that allow me to disable/enable the DNS filter or reset the Pi.
+{: refdef}
+
+[PiHole Reference Guide](https://learn.adafruit.com/pi-hole-ad-blocker-with-pi-zero-w/overview-adafruit2)
+
+

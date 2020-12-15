@@ -12,7 +12,9 @@
 
 I graduated from The University of Central Arkansas with degrees in Computer Science and Music Performance. 
 
-My CS interests lie in the broad area of Embedded Systems. I enjoy working with bare-metal microcontrollers, bootloaders, kernels, and FPGA architecture design.
+I am currently working as an Embedded Systems Researcher for the Embedded and Intelligent Systems Labs at UCA, focusing on the reliability of AVR and ARM SoCs, and Cyber-Physical Systems.
+
+My CS interests lie in the broad area of Embedded Systems. I enjoy working with bare-metal microcontrollers, bootloaders, kernels, and FPGA architecture design. 
 
 This is my personal/professional website which I will dedicate to some of my personal projects, research, and maybe some blogging.
 
