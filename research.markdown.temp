@@ -1,0 +1,18 @@
+---
+layout: page
+title: Research
+permalink: /research/
+---
+
+
+<ul>
+  {% for post in site.posts %}
+    {% if post.project == 'research' %}
+        <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+
