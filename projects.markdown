@@ -5,7 +5,6 @@ permalink: /projects/
 ---
 
 
-
 <ul>
   {% for post in site.posts %}
     {% if post.project == 'CS' %}
